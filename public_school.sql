@@ -11,5 +11,7 @@ create table public_school (
 	ENROLLMENT int
 
 );
+
+select * from public_school;
+delete  from public_school;
 drop table public_school;
-select * from public_school; 
